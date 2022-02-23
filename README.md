@@ -1,2 +1,2 @@
-# Codecademy Projects All-In-One
+# Random Quote Generator
 
