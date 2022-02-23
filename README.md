@@ -1,2 +1,2 @@
-# Codecademy Project All-In-One
+# Codecademy Projects All-In-One
 
